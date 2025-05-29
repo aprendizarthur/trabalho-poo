@@ -1,0 +1,16 @@
+{
+    "name": "arthu/trabalho-poo",
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes/", 
+            "interfaces\\": "interfaces/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur",
+            "email": "aprendizadoarthur@gmail.com"
+        }
+    ],
+    "require": {}
+}
