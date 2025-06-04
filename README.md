@@ -1,3 +1,5 @@
+**AVALIADO 81/100**
+
 Desenvolva um sistema em PHP orientado a objetos para gerenciar uma biblioteca universitária, utilizando o Composer para gerenciar dependências e autoload de classes e interfaces. O sistema deve implementar os conceitos de propriedades, métodos, construtores, herança, relacionamentos, strict types, interfaces, encapsulamento e getters, conforme especificado abaixo:
 
 1. **Classes e Relacionamentos**:
